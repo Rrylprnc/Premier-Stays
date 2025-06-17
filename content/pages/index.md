@@ -32,7 +32,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/Green Modern Minimalist Business Startup Video_051.svg
+      url: /images/Green Modern Minimalist Business Startup Video.svg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
