@@ -86,7 +86,8 @@ sections:
         subtitle: '$366,000'
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: >-
+            /images/Refined-Modern-Home-Design-Frankel-Building-Group-01-1-Kindesign.jpg
           altText: 123 Main street
           elementId: ''
           styles:
