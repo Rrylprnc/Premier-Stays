@@ -83,7 +83,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 123 Main Street
-        subtitle: $ 88 – $ 176
+        subtitle: '$366,000'
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
