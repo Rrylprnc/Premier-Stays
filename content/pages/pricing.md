@@ -18,7 +18,6 @@ sections:
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
         features:
-          - Feature one
           - ''
         image:
           altText: Pricing plan 1
