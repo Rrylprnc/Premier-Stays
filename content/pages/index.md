@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Making Homeownership Accessible
+      text: Making Homeownership Accessible to Everyone
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
