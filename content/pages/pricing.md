@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: ''
+    subtitle: coming soon!
     plans: []
     colors: bg-light-fg-dark
     styles:
