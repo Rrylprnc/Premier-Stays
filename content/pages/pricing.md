@@ -22,6 +22,7 @@ sections:
           - Feature two
           - Feature three
           - Feature four
+          - ''
         image:
           altText: Pricing plan 1
           type: ImageBlock
