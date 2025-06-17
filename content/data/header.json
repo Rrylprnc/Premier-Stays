@@ -22,7 +22,7 @@
             "type": "Link"
         },
         {
-            "label": "Blog",
+            "label": "Our Story",
             "altText": "Blog",
             "url": "/blog",
             "icon": "arrowRight",
