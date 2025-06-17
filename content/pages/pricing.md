@@ -3,7 +3,7 @@ title: Pricing
 slug: pricing
 sections:
   - title:
-      text: Flexible Pricing
+      text: Checkout Our Available Homes!
       color: text-dark
       styles:
         self:
