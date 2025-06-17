@@ -19,7 +19,6 @@ sections:
           accusantium doloremque.
         features:
           - Feature one
-          - Feature two
           - ''
         image:
           altText: Pricing plan 1
