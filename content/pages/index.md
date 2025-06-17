@@ -7,7 +7,7 @@ sections:
       text: Making Homeownership Accessible to Everyone
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: >
       At Premier Stays we combine technology and flexible solutions to make your
       dreams of homeownership a reality! Checkout our available homes.  
