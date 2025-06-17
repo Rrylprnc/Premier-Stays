@@ -106,6 +106,9 @@ sections:
             flexDirection: col
             justifyContent: center
         tagline: Santa Rosa County
+        text: >
+          Seller Financing is Available! $xx,xxx down monthly payments of
+          $x,xxx. Reach out to schedule a viewing! 
       - type: FeaturedItem
         title: Cotton Knit Throws
         subtitle: $ 44.99 – $ 90
