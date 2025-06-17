@@ -109,19 +109,6 @@ sections:
         text: >
           Seller Financing is Available! $xx,xxx down monthly payments of
           $x,xxx. Reach out to schedule a viewing! 
-      - type: FeaturedItem
-        title: Chunky Cotton Knit Throw
-        subtitle: $117
-        image:
-          type: ImageBlock
-          url: /images/img-placeholder.svg
-          altText: Chunky Cotton Knit Throw
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-light-fg-dark
     actions: []
     elementId: ''
     variant: three-col-grid
