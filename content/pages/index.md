@@ -12,7 +12,7 @@ sections:
       At Premier Stays we combine technology and flexible solutions to make your
       dreams of homeownership a reality! Checkout our available homes.  
     actions:
-      - label: Get started
+      - label: Our Homes
         altText: ''
         url: /
         showIcon: false
