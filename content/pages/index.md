@@ -75,7 +75,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Items on sale
+      text: Homes For Sale!
       color: text-dark
       styles:
         self:
