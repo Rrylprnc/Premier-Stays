@@ -87,7 +87,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
-          altText: Faux Fur Throw
+          altText: 123 Main street
           elementId: ''
           styles:
             self:
