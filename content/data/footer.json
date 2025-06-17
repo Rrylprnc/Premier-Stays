@@ -14,9 +14,9 @@
         "title": "Search Our homes",
         "links": [
             {
-                "label": "About Us",
-                "altText": "Our Homes",
-                "url": "/our homes",
+                "label": "Our Homes",
+                "altText": "careers page",
+                "url": "/careers",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
