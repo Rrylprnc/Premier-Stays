@@ -123,6 +123,7 @@ sections:
         justifyContent: flex-start
       subtitle:
         textAlign: center
+    subtitle: Cash and creative options available! Search for your perfect home.
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
