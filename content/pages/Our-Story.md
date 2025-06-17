@@ -1,6 +1,6 @@
 ---
 title: Our Story
-slug: careers
+slug: Our Story
 sections:
   - title:
       text: A team that works closely together
