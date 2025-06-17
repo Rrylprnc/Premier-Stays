@@ -1,5 +1,5 @@
 ---
-title: Our Homes
+title: Our Story
 slug: careers
 sections:
   - title:
