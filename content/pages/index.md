@@ -105,6 +105,7 @@ sections:
             borderRadius: none
             flexDirection: col
             justifyContent: center
+        tagline: Santa Rosa County
       - type: FeaturedItem
         title: Cotton Knit Throws
         subtitle: $ 44.99 – $ 90
