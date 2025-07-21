@@ -56,7 +56,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
     actions: []
-    variant: three-col-grid
+    variant: two-col-grid
     colors: bg-neutral-fg-dark
     styles:
       self:
@@ -68,10 +68,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-    title:
-      type: TitleBlock
-      text: Cash for Homes.
-      color: text-dark
   - type: GenericSection
     title:
       type: TitleBlock
@@ -199,7 +195,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
     actions: []
-    variant: three-col-grid
+    variant: big-list
     colors: bg-neutral-fg-dark
     styles:
       self:
