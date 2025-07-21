@@ -283,11 +283,7 @@ sections:
         title: ''
         tagline: ''
         subtitle: Cristina Ruiz
-        text: >
-          "Everyone on the team was extremely helpful and willing to help. It
-          was a great experience overall. I was a bit reluctant at first because
-          I haven't heard of them and I received offers all the time from people
-          reaching out."
+        text: ''
         actions: []
         colors: bg-dark-fg-light
         styles:
