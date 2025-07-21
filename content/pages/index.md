@@ -280,11 +280,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: >-
-          "Everyone on the team was extremely helpful and willing to help. It
-          was a great experience overall. I was a bit reluctant at first because
-          I haven't heard of them and I received offers all the time from people
-          reaching out."
+        title: ''
         tagline: ''
         subtitle: Cristina Ruiz
         text: ''
