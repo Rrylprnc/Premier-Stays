@@ -122,13 +122,6 @@ sections:
         subtitle: 'Maria Walters, Company'
         text: |
           Elane B.
-        image:
-          type: ImageBlock
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
