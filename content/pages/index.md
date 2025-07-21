@@ -255,7 +255,9 @@ sections:
     items:
       - type: FeaturedItem
         title: ''
-        tagline: ''
+        tagline: >-
+          "They answered all my questions. The process was very smooth. They
+          helped solve the problems that I was having with the property."
         subtitle: Sabrina Toth
         text: |+
 
