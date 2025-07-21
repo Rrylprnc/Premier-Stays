@@ -117,11 +117,15 @@ sections:
       text: Get a Cash Offer Today.
       color: text-dark
     subtitle: No fees. No Hassle.
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Selling your home can be stressful and take much more time than expected.
+      That's why we provide a zero stress cash offer for your home today.
+
+
+      Straightforward offer that you can accept or decline today.
+
+
+      No Hassle, No Fees, Ever. 
     actions: []
     media:
       type: FormBlock
