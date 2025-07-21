@@ -119,7 +119,7 @@ sections:
           “I sold my home in days and got a great price. The process was fast
           and easy.”
         tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
+        subtitle: Elane B.
         text: ''
         actions: []
         colors: bg-neutralAlt-fg-dark
