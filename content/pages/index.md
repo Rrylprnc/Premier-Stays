@@ -68,10 +68,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-    title:
-      type: TitleBlock
-      text: Cash for Homes.
-      color: text-dark
   - type: GenericSection
     title:
       type: TitleBlock
