@@ -309,13 +309,6 @@ sections:
           first time selling a home in this kind of setup but it went through."
         subtitle: Hesham Sabeiha
         text: ''
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature1.svg
-          altText: Placeholder text
-          styles:
-            self:
-              borderRadius: x-large
         actions: []
         colors: bg-light-fg-dark
         styles:
