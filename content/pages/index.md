@@ -296,7 +296,7 @@ sections:
     subtitle: ''
     text: >
       At Premier Stays we combine technology and flexible solutions to make your
-      dreams of homeownership a reality! Checkout our available homes.  
+      dreams of homeownership a reality! Ask about our available homes.
     actions: []
     media:
       url: /images/Green Modern Minimalist Business Startup Video.svg
