@@ -304,7 +304,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Find your next Home
+      label: LOOKING FOR YOUR NEXT HOME?
       color: text-primary
       type: Badge
     elementId: ''
