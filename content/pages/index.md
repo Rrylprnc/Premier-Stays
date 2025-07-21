@@ -116,8 +116,8 @@ sections:
     items:
       - type: FeaturedItem
         title: >-
-          “I sold my home in days and got a great price. The process was fast
-          and easy.”
+          “They answered all my questions. The process was very smooth. They
+          helped solve the problems that I was having with the property.
         tagline: 'Previous owner of '
         subtitle: Elane B.
         text: ''
