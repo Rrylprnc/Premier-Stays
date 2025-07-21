@@ -198,13 +198,6 @@ sections:
       color: text-primary
     colors: bg-light-fg-dark
   - type: FeaturedItemsSection
-    title:
-      type: TitleBlock
-      text: Disclosures
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
     subtitle: ''
     items:
       - type: FeaturedItem
