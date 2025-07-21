@@ -74,36 +74,6 @@ sections:
       color: text-dark
   - type: GenericSection
     title:
-      text: Making Homeownership Accessible to Everyone
-      color: text-dark
-      type: TitleBlock
-    subtitle: ''
-    text: >
-      At Premier Stays we combine technology and flexible solutions to make your
-      dreams of homeownership a reality! Checkout our available homes.  
-    actions: []
-    media:
-      url: /images/Green Modern Minimalist Business Startup Video.svg
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      type: ImageBlock
-    badge:
-      label: Find your next Home
-      color: text-primary
-      type: Badge
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-  - type: GenericSection
-    title:
       type: TitleBlock
       text: Get a Cash Offer Today.
       color: text-dark
@@ -318,6 +288,36 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: GenericSection
+    title:
+      text: Making Homeownership Accessible to Everyone
+      color: text-dark
+      type: TitleBlock
+    subtitle: ''
+    text: >
+      At Premier Stays we combine technology and flexible solutions to make your
+      dreams of homeownership a reality! Checkout our available homes.  
+    actions: []
+    media:
+      url: /images/Green Modern Minimalist Business Startup Video.svg
+      altText: Unblock your team boost your time to production preview
+      elementId: ''
+      type: ImageBlock
+    badge:
+      label: Find your next Home
+      color: text-primary
+      type: Badge
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
