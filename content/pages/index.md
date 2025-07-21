@@ -281,7 +281,11 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: ''
-        tagline: ''
+        tagline: >-
+          "Everyone on the team was extremely helpful and willing to help. It
+          was a great experience overall. I was a bit reluctant at first because
+          I haven't heard of them and I received offers all the time from people
+          reaching out."
         subtitle: Cristina Ruiz
         text: ''
         actions: []
