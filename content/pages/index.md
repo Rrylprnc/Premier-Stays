@@ -53,7 +53,9 @@ sections:
     items:
       - type: FeaturedItem
         title: 'No Fees. '
-        tagline: 'Skip agent comissions '
+        tagline: >-
+          Skip agent commissions and closing costs—get a direct cash offer
+          quickly, no surprises.
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify site.
