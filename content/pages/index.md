@@ -155,7 +155,7 @@ sections:
           name: Property Address
           label: Property Address
           hideLabel: true
-          placeholder: Your name
+          placeholder: Property Address
           isRequired: true
           width: full
       submitButton:
