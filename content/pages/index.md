@@ -116,8 +116,8 @@ sections:
     items:
       - type: FeaturedItem
         title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          “I sold my home in days and got a great price. The process was fast
+          and easy.”
         tagline: Testimonial 1
         subtitle: 'Maria Walters, Company'
         text: >-
