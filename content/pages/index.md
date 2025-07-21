@@ -78,7 +78,9 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Quick Sale
-        tagline: This is the tagline
+        tagline: >-
+          Close in as little as 7 days. Move on your timeline with total peace
+          of mind.
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first awesome Netlify site.
