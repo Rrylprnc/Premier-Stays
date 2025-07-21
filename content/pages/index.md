@@ -176,7 +176,9 @@ sections:
           width: full
         - type: CheckboxFormControl
           name: Email Opt-in
-          label: I have read and accept the legal terms.
+          label: >-
+            I agree to receive emails from Premier Stays regarding potential
+            property purchases, off-market inquiries, and related updates.
           isRequired: false
           width: full
       submitButton:
