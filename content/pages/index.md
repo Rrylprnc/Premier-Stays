@@ -283,10 +283,11 @@ sections:
         title: ''
         tagline: ''
         subtitle: 'Jane Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          "Everyone on the team was extremely helpful and willing to help. It
+          was a great experience overall. I was a bit reluctant at first because
+          I haven't heard of them and I received offers all the time from people
+          reaching out."
         image:
           type: ImageBlock
           url: /images/img-placeholder-dark.png
