@@ -42,13 +42,6 @@ sections:
           - pb-16
           - pr-16
   - type: FeaturedItemsSection
-    title:
-      type: TitleBlock
-      text: List of features here
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
     subtitle: ''
     items:
       - type: FeaturedItem
