@@ -1,9 +1,11 @@
 {
-    "name": "Ade Lawrence",
-    "role": "Chief Operating Officer",
+    "type": "Person",
+    "name": "Jennifer Crowley",
+    "role": "Marketing Associate",
     "image": {
+        "type": "ImageBlock",
         "url": "/images/avatar1.svg",
-        "altText": "Rhonda Piper",
+        "altText": "First Last",
         "styles": {
             "self": {
                 "borderRadius": "medium",
@@ -11,8 +13,7 @@
                     "mb-8"
                 ]
             }
-        },
-        "type": "ImageBlock"
+        }
     },
     "colors": "bg-light-fg-dark",
     "styles": {
@@ -30,7 +31,5 @@
             "borderRadius": "none",
             "justifyContent": "center"
         }
-    },
-    "type": "Person",
-    "bio": ""
+    }
 }
