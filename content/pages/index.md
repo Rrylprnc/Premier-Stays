@@ -288,13 +288,6 @@ sections:
           was a great experience overall. I was a bit reluctant at first because
           I haven't heard of them and I received offers all the time from people
           reaching out."
-        image:
-          type: ImageBlock
-          url: /images/img-placeholder-dark.png
-          altText: Jane Doe
-          styles:
-            self:
-              borderRadius: full
         actions: []
         colors: bg-dark-fg-light
         styles:
