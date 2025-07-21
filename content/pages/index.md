@@ -211,8 +211,21 @@ sections:
         title: ''
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify site.
+        text: >+
+
+          By submitting this form, you consent to receive recurring SMS messages
+          from Premier Stays about property acquisition opportunities. These
+          messages may be sent using automated technology. Consent is not a
+          condition of any purchase. Reply STOP to unsubscribe or HELP for help.
+          Message & data rates may apply. See our \[Privacy Policy] and
+          \[Terms].
+
+
+
+          By submitting this form, you consent to receive email communications
+          from Premier Stays. You may unsubscribe at any time using the link in
+          our emails. See our \[Privacy Policy] and \[Terms].
+
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
