@@ -91,7 +91,7 @@ sections:
       type: TitleBlock
     subtitle: Join our team!
     items:
-      - title: Account Executive
+      - title: Acquisition Manger
         subtitle: Sales
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
