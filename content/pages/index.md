@@ -79,7 +79,7 @@ sections:
       - type: FeaturedItem
         title: Quick Sale
         tagline: >-
-          Close in as little as 7 days or as long as you need. Move on YOUR
+          Close in as little as 7 days or as long as you need. Move on your
           timeline with total peace of mind.
         subtitle: ''
         text: ''
