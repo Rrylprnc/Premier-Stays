@@ -42,7 +42,7 @@ sections:
           - pb-16
           - pr-16
   - type: FeaturedItemsSection
-    subtitle: ''
+    subtitle: Sell fast. No Hassle.
     items:
       - type: FeaturedItem
         title: 'No Fees. '
