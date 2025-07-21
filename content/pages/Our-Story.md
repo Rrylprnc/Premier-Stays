@@ -30,7 +30,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Our Mission
+        title: Why Sell to Premier Stays?
         tagline: ''
         subtitle: Increase your reach
         text: >+
