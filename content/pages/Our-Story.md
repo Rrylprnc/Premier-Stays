@@ -141,13 +141,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-    actions:
-      - label: Apply now
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Button
+    actions: []
     variant: toggle-list
     colors: bg-light-fg-dark
     styles:
