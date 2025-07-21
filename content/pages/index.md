@@ -153,7 +153,7 @@ sections:
           width: full
         - type: TextFormControl
           name: Property Address
-          label: Name
+          label: Property Address
           hideLabel: true
           placeholder: Your name
           isRequired: true
