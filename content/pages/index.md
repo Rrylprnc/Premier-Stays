@@ -148,7 +148,7 @@ sections:
           name: Number
           label: number
           hideLabel: true
-          placeholder: Your email
+          placeholder: Your Phone number
           isRequired: true
           width: full
         - type: TextareaFormControl
