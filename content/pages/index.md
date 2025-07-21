@@ -302,7 +302,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Testimonial 3
+        title: ''
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
