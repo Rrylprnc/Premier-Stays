@@ -118,7 +118,7 @@ sections:
         title: >-
           “I sold my home in days and got a great price. The process was fast
           and easy.”
-        tagline: Testimonial 1
+        tagline: 'Previous owner of '
         subtitle: Elane B.
         text: ''
         actions: []
