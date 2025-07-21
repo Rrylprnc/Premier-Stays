@@ -307,7 +307,7 @@ sections:
           "Extremely hard to trust anyone these days. There were times when I
           thought that the closing wasn't really going to happen since it was my
           first time selling a home in this kind of setup but it went through."
-        subtitle: This is the item subtitle
+        subtitle: Hesham Sabeiha
         text: ''
         image:
           type: ImageBlock
