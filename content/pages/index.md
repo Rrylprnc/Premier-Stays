@@ -282,7 +282,7 @@ sections:
       - type: FeaturedItem
         title: ''
         tagline: ''
-        subtitle: 'Jane Doe, Company'
+        subtitle: ''
         text: >
           "Everyone on the team was extremely helpful and willing to help. It
           was a great experience overall. I was a bit reluctant at first because
