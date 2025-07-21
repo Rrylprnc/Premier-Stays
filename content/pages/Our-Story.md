@@ -93,10 +93,22 @@ sections:
     items:
       - title: Acquisition Manger
         subtitle: Sales
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Are you a solution oriented individual? Love talking to motivated
+          sellers? 
+
+
+          Join our team and make difference in lives. Selling or purchasing a
+          home is often the the biggest asset transactions people are a part of.
+          Your job is to make the process as smooth as possible. 
+
+
+          Interested in learning more?
+
+
+          Send your resume to admin\@premierstays.us 
+
+           
         colors: bg-neutral-fg-dark
         styles:
           self:
