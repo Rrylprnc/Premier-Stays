@@ -32,7 +32,7 @@ sections:
       - type: FeaturedItem
         title: About us
         tagline: ''
-        subtitle: Our Mission
+        subtitle: Why Sell to Premier Stays?
         text: >+
           At Premier Stays, we’re proud to do business across the U.S. while
           partnering with local vendors and supporting the communities we serve.
