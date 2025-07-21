@@ -11,16 +11,7 @@ sections:
     text: >
       At Premier Stays we combine technology and flexible solutions to make your
       dreams of homeownership a reality! Checkout our available homes.  
-    actions:
-      - label: Our Homes
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
+    actions: []
     media:
       url: /images/Green Modern Minimalist Business Startup Video.svg
       altText: Unblock your team boost your time to production preview
