@@ -81,7 +81,7 @@ sections:
         tagline: >-
           Close in as little as 7 days. Move on your timeline with total peace
           of mind.
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Follow the tutorial to build your first awesome Netlify site.
         image:
