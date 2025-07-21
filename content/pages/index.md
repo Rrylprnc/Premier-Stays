@@ -120,8 +120,7 @@ sections:
           and easy.”
         tagline: Testimonial 1
         subtitle: 'Maria Walters, Company'
-        text: |
-          Elane B.
+        text: ''
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
