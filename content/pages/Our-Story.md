@@ -58,7 +58,7 @@ sections:
             flexDirection: row
             justifyContent: center
     variant: tabs-nav
-    colors: bg-neutral-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         justifyContent: center
