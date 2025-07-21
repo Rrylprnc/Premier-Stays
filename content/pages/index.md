@@ -114,7 +114,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic Section With A Form
+      text: Get a Cash Offer Today.
       color: text-dark
     subtitle: Section with a form subtitle
     text: |-
