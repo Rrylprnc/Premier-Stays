@@ -116,7 +116,7 @@ sections:
       type: TitleBlock
       text: Get a Cash Offer Today.
       color: text-dark
-    subtitle: Section with a form subtitle
+    subtitle: No fees. No Hassle.
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
