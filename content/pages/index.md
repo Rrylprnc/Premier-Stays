@@ -109,7 +109,7 @@ sections:
         textAlign: center
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: Cash for Homes.
       color: text-dark
   - subtitle: Award winning enterprises trust us
     images:
