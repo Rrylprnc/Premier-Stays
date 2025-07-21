@@ -53,7 +53,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 'No Fees. '
-        tagline: This is the tagline
+        tagline: 'Skip agent comissions '
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify site.
