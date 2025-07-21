@@ -285,7 +285,7 @@ sections:
           was a great experience overall. I was a bit reluctant at first because
           I haven't heard of them and I received offers all the time from people
           reaching out."
-        tagline: Testimonial 2
+        tagline: ''
         subtitle: 'Jane Doe, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
