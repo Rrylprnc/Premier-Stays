@@ -158,6 +158,13 @@ sections:
           placeholder: Property Address
           isRequired: true
           width: full
+        - type: TextFormControl
+          name: Preferred Closing Date
+          label: Name
+          hideLabel: true
+          placeholder: Your name
+          isRequired: true
+          width: full
       submitButton:
         type: SubmitButtonFormControl
         label: Submit
