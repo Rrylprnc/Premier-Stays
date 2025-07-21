@@ -308,8 +308,7 @@ sections:
           thought that the closing wasn't really going to happen since it was my
           first time selling a home in this kind of setup but it went through."
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: ''
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
