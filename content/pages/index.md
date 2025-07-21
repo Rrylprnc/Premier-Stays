@@ -82,8 +82,7 @@ sections:
           Close in as little as 7 days. Move on your timeline with total peace
           of mind.
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first awesome Netlify site.
+        text: ''
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
