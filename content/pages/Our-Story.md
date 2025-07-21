@@ -25,6 +25,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+    subtitle: We're Growing!
   - type: CarouselSection
     items:
       - type: FeaturedItem
