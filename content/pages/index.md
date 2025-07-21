@@ -172,7 +172,7 @@ sections:
             property inquiries, potential property purchases, and related
             updates. Message & data rates may apply. You can opt out at any time
             by replying STOP.
-          isRequired: true
+          isRequired: false
           width: full
       submitButton:
         type: SubmitButtonFormControl
