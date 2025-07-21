@@ -146,7 +146,7 @@ sections:
           width: full
         - type: EmailFormControl
           name: Number
-          label: number
+          label: Phone Number
           hideLabel: true
           placeholder: Your Phone number
           isRequired: true
