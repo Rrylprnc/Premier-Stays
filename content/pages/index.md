@@ -116,8 +116,8 @@ sections:
     items:
       - type: FeaturedItem
         title: >-
-          “They answered all my questions. The process was very smooth. They
-          helped solve the problems that I was having with the property.
+          "They answered all my questions. The process was very smooth. They
+          helped solve the problems that I was having with the property."
         tagline: 'Previous owner of 3006 Park Drive, Cleveland, OH 44134'
         subtitle: Elane B.
         text: |+
