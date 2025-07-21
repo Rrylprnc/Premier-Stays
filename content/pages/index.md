@@ -57,8 +57,7 @@ sections:
           Skip agent commissions and closing costs—get a direct cash offer
           quickly, no surprises.
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify site.
+        text: ''
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
