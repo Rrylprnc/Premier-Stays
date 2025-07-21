@@ -151,12 +151,6 @@ sections:
           placeholder: Your Phone number
           isRequired: true
           width: full
-        - type: TextareaFormControl
-          name: message
-          label: Message
-          hideLabel: true
-          placeholder: Your message
-          width: full
       submitButton:
         type: SubmitButtonFormControl
         label: Submit
