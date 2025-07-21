@@ -24,7 +24,7 @@
         {
             "label": "Our Story",
             "altText": "Our Story",
-            "url": "/blog",
+            "url": "/Our Story",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
