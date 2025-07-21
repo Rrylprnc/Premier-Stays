@@ -151,6 +151,13 @@ sections:
           placeholder: Your Phone number
           isRequired: true
           width: full
+        - type: TextFormControl
+          name: Property Address
+          label: Name
+          hideLabel: true
+          placeholder: Your name
+          isRequired: true
+          width: full
       submitButton:
         type: SubmitButtonFormControl
         label: Submit
