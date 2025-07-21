@@ -174,6 +174,11 @@ sections:
             by replying STOP.
           isRequired: false
           width: full
+        - type: CheckboxFormControl
+          name: Email Opt-in
+          label: I have read and accept the legal terms.
+          isRequired: false
+          width: full
       submitButton:
         type: SubmitButtonFormControl
         label: Submit
