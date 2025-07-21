@@ -281,8 +281,10 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: >-
-          “Quote from some important person goes right here. I love using
-          Netlify.”
+          "Everyone on the team was extremely helpful and willing to help. It
+          was a great experience overall. I was a bit reluctant at first because
+          I haven't heard of them and I received offers all the time from people
+          reaching out."
         tagline: Testimonial 2
         subtitle: 'Jane Doe, Company'
         text: >-
