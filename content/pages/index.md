@@ -226,13 +226,6 @@ sections:
           from Premier Stays. You may unsubscribe at any time using the link in
           our emails. See our \[Privacy Policy] and \[Terms].
 
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature1.svg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
         actions: []
         colors: bg-light-fg-dark
         styles:
