@@ -118,7 +118,7 @@ sections:
         title: >-
           "They answered all my questions. The process was very smooth. They
           helped solve the problems that I was having with the property."
-        tagline: 'Previous owner of 3006 Park Drive, Cleveland, OH 44134'
+        tagline: ''
         subtitle: Sabrina Toth
         text: |+
 
