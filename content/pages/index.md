@@ -167,7 +167,11 @@ sections:
           width: full
         - type: CheckboxFormControl
           name: SMS Opt-In
-          label: I have read and accept the legal terms.
+          label: >-
+            I agree to receive text messages from Premier Stays regarding
+            property inquiries, potential property purchases, and related
+            updates. Message & data rates may apply. You can opt out at any time
+            by replying STOP.
           isRequired: false
           width: full
       submitButton:
