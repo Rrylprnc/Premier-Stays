@@ -67,10 +67,6 @@ sections:
       support\@premierstays.us
 
     actions: []
-    media:
-      type: ImageBlock
-      url: /images/hero2.svg
-      altText: Fun feature preview
     badge:
       type: Badge
       label: This is a badge
