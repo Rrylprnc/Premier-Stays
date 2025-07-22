@@ -6,7 +6,7 @@ sections:
     title:
       type: TitleBlock
       text: Get a Cash Offer Today.
-      color: text-dark
+      color: text-primary
     subtitle: No fees. No Hassle.
     text: >
       Selling your home can be stressful and take much more time than expected.
