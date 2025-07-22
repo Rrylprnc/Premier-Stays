@@ -151,13 +151,6 @@ sections:
           quickly, no surprises.
         subtitle: ''
         text: ''
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature1.svg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
         actions: []
         colors: bg-light-fg-dark
         styles:
@@ -176,13 +169,6 @@ sections:
           timeline with total peace of mind.
         subtitle: ''
         text: ''
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature2.svg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
         actions: []
         colors: bg-light-fg-dark
         styles:
