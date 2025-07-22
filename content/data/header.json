@@ -14,14 +14,6 @@
     },
     "primaryLinks": [
         {
-            "label": "Our Homes",
-            "url": "/Our Homes",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "label": "Our Story",
             "altText": "Our Story",
             "url": "/Our Story",
