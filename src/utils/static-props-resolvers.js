@@ -24,6 +24,11 @@ export function resolveStaticProps(urlPath, data) {
         },
         ...data.props
     };
+
+     // Hardcode the favicon
+    if (!props.site) props.site = {};
+    props.site.favicon = "/images/Untitled design.svg";
+    
     return mapDeepAsync(
         props,
         async (value, keyPath, stack) => {
