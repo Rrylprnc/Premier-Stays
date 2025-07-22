@@ -209,7 +209,7 @@ sections:
         textAlign: center
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: Why Sell to Us?
       color: text-dark
   - type: GenericSection
     title:
