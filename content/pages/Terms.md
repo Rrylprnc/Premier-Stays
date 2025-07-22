@@ -84,7 +84,7 @@ sections:
       type: TitleBlock
       text: Privacy Policy
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: 'Effective Date: July 22, 2025'
     text: >
       ### 1. Information We Collect
 
