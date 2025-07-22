@@ -14,15 +14,6 @@
         "title": "Get a cash offer today!",
         "links": [
             {
-                "label": "Our Homes",
-                "altText": "careers page",
-                "url": "/careers",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
                 "label": "Our Story",
                 "url": "/about us",
                 "icon": "arrowRight",
