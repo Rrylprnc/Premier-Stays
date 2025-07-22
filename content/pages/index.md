@@ -153,7 +153,6 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/offer-3.svg
           altText: Placeholder image
           styles:
             self:
