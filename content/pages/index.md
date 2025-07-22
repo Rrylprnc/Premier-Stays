@@ -2,72 +2,6 @@
 title: Home
 slug: /
 sections:
-  - type: FeaturedItemsSection
-    subtitle: Sell fast. No Hassle.
-    items:
-      - type: FeaturedItem
-        title: 'No Fees. '
-        tagline: >-
-          Skip agent commissions and closing costs—get a direct cash offer
-          quickly, no surprises.
-        subtitle: ''
-        text: ''
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature1.svg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-      - type: FeaturedItem
-        title: Quick Sale
-        tagline: >-
-          Close in as little as 7 days or as long as you need. Move on your
-          timeline with total peace of mind.
-        subtitle: ''
-        text: ''
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature2.svg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-    actions: []
-    variant: two-col-grid
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-8
-          - pb-16
-          - pr-8
-        justifyContent: center
-      subtitle:
-        textAlign: center
   - type: GenericSection
     title:
       type: TitleBlock
@@ -207,65 +141,23 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: CarouselSection
-    subtitle: ''
+  - type: FeaturedItemsSection
+    subtitle: Sell fast. No Hassle.
     items:
       - type: FeaturedItem
-        title: ''
+        title: 'No Fees. '
         tagline: >-
-          "They answered all my questions. The process was very smooth. They
-          helped solve the problems that I was having with the property."
-        subtitle: Sabrina Toth
-        text: |+
-
-
-
-
-
-
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-      - type: FeaturedItem
-        title: ''
-        tagline: >-
-          "Everyone on the team was extremely helpful and willing to help. It
-          was a great experience overall. I was a bit reluctant at first because
-          I haven't heard of them and I received offers all the time from people
-          reaching out."
-        subtitle: Cristina Ruiz
+          Skip agent commissions and closing costs—get a direct cash offer
+          quickly, no surprises.
+        subtitle: ''
         text: ''
-        actions: []
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-      - type: FeaturedItem
-        title: ''
-        tagline: >-
-          "Extremely hard to trust anyone these days. There were times when I
-          thought that the closing wasn't really going to happen since it was my
-          first time selling a home in this kind of setup but it went through."
-        subtitle: Hesham Sabeiha
-        text: ''
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature1.svg
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
         actions: []
         colors: bg-light-fg-dark
         styles:
@@ -276,14 +168,52 @@ sections:
               - pb-8
               - pr-8
             borderRadius: x-large
-            flexDirection: row
-    variant: next-prev-nav
-    colors: bg-light-fg-dark
+            flexDirection: col
+      - type: FeaturedItem
+        title: Quick Sale
+        tagline: >-
+          Close in as little as 7 days or as long as you need. Move on your
+          timeline with total peace of mind.
+        subtitle: ''
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature2.svg
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+    actions: []
+    variant: two-col-grid
+    colors: bg-neutral-fg-dark
     styles:
       self:
+        padding:
+          - pt-16
+          - pl-8
+          - pb-16
+          - pr-8
         justifyContent: center
       subtitle:
         textAlign: center
+    title:
+      type: TitleBlock
+      text: Why Sell to Us?
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
   - type: GenericSection
     title:
       text: Making Homeownership Accessible to Everyone
