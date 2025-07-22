@@ -178,7 +178,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/abstract-feature2.svg
+          url: /images/Untitled-design-_1_.svg
           altText: Placeholder image
           styles:
             self:
