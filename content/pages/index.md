@@ -151,12 +151,6 @@ sections:
           quickly, no surprises.
         subtitle: ''
         text: ''
-        image:
-          type: ImageBlock
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
         actions: []
         colors: bg-light-fg-dark
         styles:
