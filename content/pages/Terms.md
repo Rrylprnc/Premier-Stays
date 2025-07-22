@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: This is a new page
+title: Terms
 sections: []
 slug: /Terms
 isDraft: false
