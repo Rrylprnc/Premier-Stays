@@ -69,7 +69,7 @@ sections:
     actions: []
     badge:
       type: Badge
-      label: This is a badge
+      label: Premier Stays LLC
       color: text-primary
     colors: bg-light-fg-dark
     styles:
