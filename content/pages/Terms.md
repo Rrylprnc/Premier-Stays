@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Terms
+title: Terms & Privacy
 sections:
   - type: GenericSection
     subtitle: 'Effective Date: July 22, 2025 Program Name: Premier Stays Text Alerts'
