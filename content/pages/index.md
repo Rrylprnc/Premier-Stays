@@ -211,6 +211,9 @@ sections:
       type: TitleBlock
       text: Why Sell to Us?
       color: text-dark
+      styles:
+        self:
+          textAlign: center
   - type: GenericSection
     title:
       text: Making Homeownership Accessible to Everyone
