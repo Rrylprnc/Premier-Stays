@@ -22,7 +22,7 @@ function Page(props) {
     return (
         <>
             <Head>
-                <title>{title}</title>
+                <title>{Premier Stays}</title>
                 {metaDescription && <meta name="description" content={metaDescription} />}
                 {metaTags.map((metaTag) => {
                     if (metaTag.format === 'property') {
@@ -32,7 +32,7 @@ function Page(props) {
                     return <meta key={metaTag.property} name={metaTag.property} content={metaTag.content} />;
                 })}
                 <meta name="viewport" content="width=device-width, initial-scale=1" />
-                {site.favicon && <link rel="icon" href={site.favicon} />}
+                {site.favicon && <link rel="icon" href={public/images/Untitled design.svg} />}
             </Head>
             <PageLayout page={page} site={site} />
         </>

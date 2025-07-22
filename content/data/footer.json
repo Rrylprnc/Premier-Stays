@@ -1,77 +1,21 @@
 {
-    "logo": {
-        "url": "/images/PS LOGO SMALL (4).svg",
-        "altText": "Logo light",
-        "type": "ImageBlock"
-    },
-    "text": "Homes for Everyone!\n",
-    "primaryLinks": {
-        "title": "search our Homes",
-        "links": [],
-        "type": "FooterLinksGroup"
-    },
-    "secondaryLinks": {
-        "title": "Get a cash offer today!",
-        "links": [
-            {
-                "label": "Our Homes",
-                "altText": "careers page",
-                "url": "/careers",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Our Story",
-                "url": "/about us",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            }
-        ],
-        "type": "FooterLinksGroup"
-    },
-    "socialLinks": [
+    "text": "<contact@premierstays.us>\n\n850-750-2031\n",
+    "socialLinks": [],
+    "legalLinks": [
         {
-            "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
-            "icon": "twitter",
-            "type": "Social"
-        },
-        {
-            "type": "Social",
-            "altText": "Instagram link",
-            "url": "/https://www.instagram.com/premier_stays_rei/",
-            "icon": "instagram",
+            "type": "Link",
+            "label": "Terms",
+            "altText": "",
+            "url": "/Terms&Privacy",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
             "elementId": ""
         },
         {
-            "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/netlify",
-            "icon": "linkedin",
-            "type": "Social"
-        },
-        {
-            "altText": "Email link",
-            "url": "/",
-            "icon": "mail",
-            "type": "Social"
-        }
-    ],
-    "legalLinks": [
-        {
-            "label": "Terms",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "label": "Privacy",
-            "url": "/",
+            "url": "/Terms&Privacy",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -80,5 +24,16 @@
     ],
     "copyrightText": "Premier Stays LLC © 2025  \n",
     "colors": "bg-dark-fg-light",
-    "type": "Footer"
+    "type": "Footer",
+    "logo": {
+        "type": "ImageBlock",
+        "url": "/images/PS LOGO SMALL (4).svg",
+        "altText": "Image alt text placeholder",
+        "elementId": "",
+        "styles": {
+            "self": {
+                "borderRadius": "medium"
+            }
+        }
+    }
 }
