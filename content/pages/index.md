@@ -96,6 +96,52 @@ sections:
       color: text-primary
     colors: bg-light-fg-dark
   - type: FeaturedItemsSection
+    subtitle: ''
+    items:
+      - type: FeaturedItem
+        title: ''
+        tagline: ''
+        subtitle: ''
+        text: >+
+
+          By submitting this form, you consent to receive recurring SMS messages
+          from Premier Stays about property acquisition opportunities. These
+          messages may be sent using automated technology. Consent is not a
+          condition of any purchase. Reply STOP to unsubscribe or HELP for help.
+          Message & data rates may apply. See our \[Privacy Policy] and
+          \[Terms].
+
+
+
+          By submitting this form, you consent to receive email communications
+          from Premier Stays. You may unsubscribe at any time using the link in
+          our emails. See our \[Privacy Policy] and \[Terms].
+
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+    actions: []
+    variant: big-list
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-8
+          - pb-16
+          - pr-8
+        justifyContent: center
+      subtitle:
+        textAlign: center
+  - type: FeaturedItemsSection
     subtitle: Sell fast. No Hassle.
     items:
       - type: FeaturedItem
@@ -150,52 +196,6 @@ sections:
             flexDirection: col
     actions: []
     variant: two-col-grid
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-8
-          - pb-16
-          - pr-8
-        justifyContent: center
-      subtitle:
-        textAlign: center
-  - type: FeaturedItemsSection
-    subtitle: ''
-    items:
-      - type: FeaturedItem
-        title: ''
-        tagline: ''
-        subtitle: ''
-        text: >+
-
-          By submitting this form, you consent to receive recurring SMS messages
-          from Premier Stays about property acquisition opportunities. These
-          messages may be sent using automated technology. Consent is not a
-          condition of any purchase. Reply STOP to unsubscribe or HELP for help.
-          Message & data rates may apply. See our \[Privacy Policy] and
-          \[Terms].
-
-
-
-          By submitting this form, you consent to receive email communications
-          from Premier Stays. You may unsubscribe at any time using the link in
-          our emails. See our \[Privacy Policy] and \[Terms].
-
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-    actions: []
-    variant: big-list
     colors: bg-neutral-fg-dark
     styles:
       self:
