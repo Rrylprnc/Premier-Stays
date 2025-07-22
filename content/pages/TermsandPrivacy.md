@@ -156,7 +156,7 @@ sections:
     styles:
       self:
         alignItems: center
-slug: /Terms
+slug: /Terms&Privacy
 isDraft: false
 seo:
   type: Seo
