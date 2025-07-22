@@ -94,7 +94,7 @@ sections:
         alignItems: center
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: Terms of Service
       color: text-dark
 slug: /Terms
 isDraft: false
