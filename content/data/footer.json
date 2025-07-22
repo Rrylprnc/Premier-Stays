@@ -27,6 +27,17 @@
     "socialLinks": [],
     "legalLinks": [
         {
+            "type": "Link",
+            "label": "See Tutorials",
+            "altText": "",
+            "url": "/Terms",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "elementId": ""
+        },
+        {
             "label": "Privacy",
             "url": "/",
             "icon": "arrowRight",
