@@ -69,7 +69,7 @@ sections:
     actions: []
     badge:
       type: Badge
-      label: Premier Stays LLC
+      label: Premier Stays LLC 2025
       color: text-primary
     colors: bg-light-fg-dark
     styles:
