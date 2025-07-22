@@ -207,6 +207,10 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+    title:
+      type: TitleBlock
+      text: This Is A Big Headline
+      color: text-dark
   - type: GenericSection
     title:
       text: Making Homeownership Accessible to Everyone
