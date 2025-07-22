@@ -22,7 +22,7 @@ function Page(props) {
     return (
         <>
             <Head>
-                <title>{title}</title>
+                <title>{Premier Stays}</title>
                 {metaDescription && <meta name="description" content={metaDescription} />}
                 {metaTags.map((metaTag) => {
                     if (metaTag.format === 'property') {
