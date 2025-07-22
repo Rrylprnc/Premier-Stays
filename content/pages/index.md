@@ -169,13 +169,6 @@ sections:
           timeline with total peace of mind.
         subtitle: ''
         text: ''
-        image:
-          type: ImageBlock
-          url: /images/Untitled-design-_1_.svg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
         actions: []
         colors: bg-light-fg-dark
         styles:
