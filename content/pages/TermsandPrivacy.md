@@ -99,16 +99,10 @@ sections:
       *   To provide property offers and services
 
 
-
-
       *   To send text alerts, reminders, and updates
 
 
-
-
       *   To respond to your inquiries
-
-
 
 
       ### 3. Mobile Information
@@ -119,7 +113,13 @@ sections:
 
 
       Required Disclosure:
-       “No mobile information will be shared with third parties/affiliates for marketing/promotional purposes. Information sharing to subcontractors in support services, such as customer service is permitted. All other use case categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties.”
+
+      “No mobile information will be shared with third parties/affiliates for
+      marketing/promotional purposes. Information sharing to subcontractors in
+      support services, such as customer service is permitted. All other use
+      case categories exclude text messaging originator opt-in data and consent;
+      this information will not be shared with any third parties.”
+
 
       ### 4. Data Security
 
@@ -132,7 +132,7 @@ sections:
 
 
       You may opt out of SMS communications at any time by replying STOP. To
-      access or delete your data, email us at support\@premierstays.us.
+      access or delete your data, email us at <support@premierstays.us>.
 
 
       ### 6. Changes to This Policy
@@ -147,10 +147,7 @@ sections:
 
       For privacy-related concerns, contact:
 
-      privacy\@premierstays.us
-
-
-      \\
+      <privacy@premierstays.us>
     actions: []
     colors: bg-light-fg-dark
     styles:
