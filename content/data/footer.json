@@ -26,13 +26,6 @@
     },
     "socialLinks": [
         {
-            "type": "Social",
-            "altText": "Instagram link",
-            "url": "/https://www.instagram.com/premier_stays_rei/",
-            "icon": "instagram",
-            "elementId": ""
-        },
-        {
             "altText": "Email link",
             "url": "/",
             "icon": "mail",
