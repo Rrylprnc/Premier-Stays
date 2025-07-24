@@ -23,11 +23,11 @@
         }
     ],
     "copyrightText": "Premier Stays LLC © 2025  \n",
-    "colors": "bg-dark-fg-light",
+    "colors": "bg-neutral-fg-dark",
     "type": "Footer",
     "logo": {
         "type": "ImageBlock",
-        "url": "/images/PS LOGO SMALL (4).svg",
+        "url": "/images/PS-LOGO_TXT-final.svg",
         "altText": "Image alt text placeholder",
         "elementId": "",
         "styles": {

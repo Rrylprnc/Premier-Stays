@@ -51,9 +51,9 @@ sections:
           width: full
         - type: TextFormControl
           name: Preferred Closing Date
-          label: Name
+          label: Preferred Closing Date
           hideLabel: true
-          placeholder: Your name
+          placeholder: Preferred Closing Date
           isRequired: true
           width: full
         - type: CheckboxFormControl
@@ -200,36 +200,6 @@ sections:
       styles:
         self:
           textAlign: center
-  - type: GenericSection
-    title:
-      text: Making Homeownership Accessible to Everyone
-      color: text-dark
-      type: TitleBlock
-    subtitle: ''
-    text: >
-      At Premier Stays we combine technology and flexible solutions to make your
-      dreams of homeownership a reality! Ask about our available homes.
-    actions: []
-    media:
-      url: /images/Green Modern Minimalist Business Startup Video.svg
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      type: ImageBlock
-    badge:
-      label: LOOKING FOR YOUR NEXT HOME?
-      color: text-primary
-      type: Badge
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
