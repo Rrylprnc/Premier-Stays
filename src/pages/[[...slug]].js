@@ -16,13 +16,13 @@ function Page(props) {
     if (!PageLayout) {
         throw new Error(`no page layout matching the page model: ${modelName}`);
     }
-    const title = seoGenerateTitle(page, site);
+    const title = 'Premier Stays';
     const metaTags = seoGenerateMetaTags(page, site);
     const metaDescription = seoGenerateMetaDescription(page, site);
     return (
         <>
             <Head>
-                <title>{Premier Stays}</title>
+                <title>{'Premier Stays'}</title>
                 {metaDescription && <meta name="description" content={metaDescription} />}
                 {metaTags.map((metaTag) => {
                     if (metaTag.format === 'property') {
@@ -32,7 +32,7 @@ function Page(props) {
                     return <meta key={metaTag.property} name={metaTag.property} content={metaTag.content} />;
                 })}
                 <meta name="viewport" content="width=device-width, initial-scale=1" />
-                {site.favicon && <link rel="icon" href={public/images/Untitled design.svg} />}
+                {site.favicon && <link rel="icon" href={site.favicon} />}
             </Head>
             <PageLayout page={page} site={site} />
         </>
