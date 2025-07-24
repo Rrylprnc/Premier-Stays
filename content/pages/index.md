@@ -74,7 +74,7 @@ sections:
           width: full
       submitButton:
         type: SubmitButtonFormControl
-        label: Submit
+        label: Get Free Quote
         icon: arrowRight
         iconPosition: right
         style: primary
