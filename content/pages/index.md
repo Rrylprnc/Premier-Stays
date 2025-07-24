@@ -78,7 +78,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
-        showIcon: true
+        showIcon: false
       elementId: contact-form
       styles:
         self:
