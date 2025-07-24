@@ -16,13 +16,13 @@ function Page(props) {
     if (!PageLayout) {
         throw new Error(`no page layout matching the page model: ${modelName}`);
     }
-    const title = 'Premier Stays';
+    const title = "Premier Stays";
     const metaTags = seoGenerateMetaTags(page, site);
     const metaDescription = seoGenerateMetaDescription(page, site);
     return (
         <>
             <Head>
-                <title>{'Premier Stays'}</title>
+                <title>{title}</title>
                 {metaDescription && <meta name="description" content={metaDescription} />}
                 {metaTags.map((metaTag) => {
                     if (metaTag.format === 'property') {
