@@ -51,7 +51,7 @@ sections:
           width: full
         - type: TextFormControl
           name: Preferred Closing Date
-          label: Name
+          label: Preferred Closing Date
           hideLabel: true
           placeholder: Your name
           isRequired: true
