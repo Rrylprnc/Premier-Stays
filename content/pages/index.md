@@ -53,7 +53,7 @@ sections:
           name: Preferred Closing Date
           label: Preferred Closing Date
           hideLabel: true
-          placeholder: Your name
+          placeholder: Preferred Closing Date
           isRequired: true
           width: full
         - type: CheckboxFormControl
