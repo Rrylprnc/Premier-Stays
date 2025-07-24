@@ -35,7 +35,12 @@ export function resolveStaticProps(urlPath, data) {
             return value;
         },
         { postOrder: true }
-    );
+    ).then((resolvedProps) => {
+        // ✅ Now safely hardcode the favicon here
+        if (!resolvedProps.site) resolvedProps.site = {};
+        resolvedProps.site.favicon = "/images/Untitled design.svg";
+        return resolvedProps;
+    });
 }
 
 const StaticPropsResolvers = {
